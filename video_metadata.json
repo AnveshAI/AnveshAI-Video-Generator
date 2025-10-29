@@ -1,0 +1,45 @@
+{
+  "videos": [
+    {
+      "id": "vid_1761746386_9757",
+      "filename": "anvesh_video_1761746386.mp4",
+      "prompt": "girl eating apple",
+      "num_frames": 5,
+      "created_at": "2025-10-29T14:00:30.737013",
+      "file_size": 4173766
+    },
+    {
+      "id": "vid_1761745816_4076",
+      "filename": "anvesh_video_1761745816.mp4",
+      "prompt": "girl eating apple",
+      "num_frames": 5,
+      "created_at": "2025-10-29T13:50:50.516520",
+      "file_size": 4262759
+    },
+    {
+      "id": "vid_1761560074_2712",
+      "filename": "anvesh_video_1761560074.mp4",
+      "prompt": "Snake",
+      "num_frames": 5,
+      "created_at": "2025-10-27T10:15:06.199048",
+      "file_size": 4248773
+    },
+    {
+      "id": "vid_1761550095_8682",
+      "filename": "anvesh_video_1761550095.mp4",
+      "prompt": "A futuristic car racing through neon streets at night",
+      "num_frames": 5,
+      "created_at": "2025-10-27T07:28:45.672717",
+      "file_size": 4472741
+    },
+    {
+      "id": "vid_1761549927_7580",
+      "filename": "anvesh_video_1761549927.mp4",
+      "prompt": "A futuristic car racing through neon streets at night",
+      "num_frames": 5,
+      "created_at": "2025-10-27T07:25:59.529695",
+      "file_size": 4462359
+    }
+  ],
+  "total_generated": 5
+}
